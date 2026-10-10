@@ -1,10 +1,10 @@
 # obHODTelegRAM
 
-Если в Telegram не грузятся картинки, obHODTelegRAM чинит канал без VPN-клиента.
+Новая версия с поддержкой Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 
 Если в Telegram не грузятся картинки, obHODTelegRAM чинит канал без VPN-клиента. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/RamMaharajaJam/obHODTelegRAM/releases/latest
-Код: https://github.com/RamMaharajaJam/obHODTelegRAM
+Релиз: https://github.com/rammaharajajam/obHODTelegRAM/releases/latest
+Код: https://github.com/rammaharajajam/obHODTelegRAM
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/RamMaharajaJam/obHODTelegRAM
+Страница: https://github.com/rammaharajajam/obHODTelegRAM
